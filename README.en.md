@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="logo" src="/images/logo.png" width="120" height="120" style="margin-bottom: 10px;">
+    <img alt="logo" src="https://xsdream.github.io/Ashore/images/logo.png" width="120" height="120" style="margin-bottom: 10px;">
 </p>
 <h3 align="center" style="margin: 30px 0 30px;font-weight: bold;font-size:40px;">Ashore</h3>
 <h3 align="center">为准备考取MBA MPA MEM在职研究生打造的学习平台</h3>
