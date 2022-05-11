@@ -10,14 +10,14 @@ const sidebar = require('./docs/sidebarConfig/index')
 
 module.exports = {
     // 如果element-plus在打包中不报错没必要！
-    // bundler: viteBundler({
-    //     viteOptions: {
-    //         ssr: {
-    //             noExternal: ['element-plus'],
-    //         },
-    //     },
-    //     vuePluginOptions: {},
-    // }),
+    bundler: viteBundler({
+        viteOptions: {
+            ssr: {
+                noExternal: ['element-plus'],
+            },
+        },
+        vuePluginOptions: {},
+    }),
     base:'/Ashore/',
     lang: 'zh-CN',
     title: 'Ashore',
