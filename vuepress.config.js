@@ -5,7 +5,7 @@ const { backToTopPlugin } = require('@vuepress/plugin-back-to-top')
 const { mediumZoomPlugin } = require('@vuepress/plugin-medium-zoom')
 const { nprogressPlugin } = require('@vuepress/plugin-nprogress')
 const { searchPlugin } = require('@vuepress/plugin-search')
-const sidebar = require('./docs/config/sidebar')
+const sidebar = require('./docs/sidebarConfig/index')
 
 module.exports = {
     base:'/Ashore/',
@@ -40,11 +40,10 @@ module.exports = {
         editLink: false,
         //最近更新时间
         lastUpdated:true,
-        lastUpdatedText:'2022/5/10',
         //启动贡献者列表
-        contributors:true,
+        // contributors:true,
         //贡献者名称
-        contributorsText:'xsdream',
+        // contributorsText:'xsdream',
         // 在这里进行配置
         logo: '/images/logo.png',
         //导航中logo的链接
@@ -57,6 +56,10 @@ module.exports = {
             {
                 text: 'English',
                 children: [
+                    {
+                        text: 'Word', //单词
+                        link: '/English/Word'
+                    },
                     {
                         text: 'Read', //阅读
                         link: '/English/Read'

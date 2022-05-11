@@ -1,37 +1,21 @@
-# work-postgraduate-study
+<p align="center">
+    <img alt="logo" src="/images/logo.png" width="120" height="120" style="margin-bottom: 10px;">
+</p>
+<h3 align="center" style="margin: 30px 0 30px;font-weight: bold;font-size:40px;">Ashore</h3>
+<h3 align="center">为准备考取MBA MPA MEM在职研究生打造的学习平台</h3>
 
-#### 介绍
-在职考研学习
+## 特性
+1. 文档全英文，工作摸鱼时私下浏览
+2. 内容涵盖考试的四个学科（单词 阅读 真题 公式 写作素材...）
+3. 更多功能特性请访问下方文档查看详细
 
-#### 软件架构
-软件架构说明
+## 文档地址
+点击访问—— [https://xsdream.github.io/Ashore/](https://xsdream.github.io/Ashore/)
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 一起干吧
+如果你恰好也一名备考199管综的programmer，可以加我的微信：xs1287452068 一起维护Ashore！
+希望你有以下技能：
+1. vue
+2. vuePress
+3. mangoDB node * （后续考虑接入数据库增加功能）
+4. 手里囤积了大量的上岸资源

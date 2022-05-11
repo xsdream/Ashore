@@ -6,7 +6,7 @@ sidebar: false
 heroImage: /images/logo.png
 actions:
   - text: start
-    link: /zh/guide/getting-started.html
+    link: /English/Read
     type: primary
 features:
   - title: Privately
@@ -19,8 +19,19 @@ footer: xsdream © 2022
 ---
 
 ::: tip
+If you happen to be a programmer who is preparing for the 199 Postgraduate entrance examination, you can add my WeChat: xs1287452068 to maintain Ashore together!
+Hopefully you have the following skills:
+1. vue
+2. vuePress
+3. mangoDB nodeJs (Future use)
+4. have a large amount of learning materials in my hands
+:::
+    
+::: tip
 :fist: Wish the 2023 examinees ashore
 :::
+
+
 
 
 
