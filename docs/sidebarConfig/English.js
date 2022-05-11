@@ -2,10 +2,20 @@ module.exports =  {
     //English-Word
     '/English/Word': [
         {
-            text: 'BetweenWords',//单词之间
+            text: 'BetweenWords-MaTianYi',//单词之间
             children: [
                 '/English/Word/BetweenWords/Day1.md',
-                '/English/Word/BetweenWords/Day2.md'
+                '/English/Word/BetweenWords/Day2.md',
+                '/English/Word/BetweenWords/Day3.md',
+                '/English/Word/BetweenWords/Day4.md',
+                '/English/Word/BetweenWords/Day5.md',
+                '/English/Word/BetweenWords/Day6.md',
+                '/English/Word/BetweenWords/Day7.md',
+                '/English/Word/BetweenWords/Day8.md',
+                '/English/Word/BetweenWords/Day9.md',
+                '/English/Word/BetweenWords/Day10.md',
+                '/English/Word/BetweenWords/Day11.md',
+                '/English/Word/BetweenWords/Day12.md'
             ],
         },
     ],
