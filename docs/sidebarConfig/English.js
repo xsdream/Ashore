@@ -25,8 +25,8 @@ module.exports =  {
                 {
                     text: '2010',
                     children: [
-                        { text: 'test1', link: '/English/Read/Examination/2010/test1.md' },
-                        { text: 'test2', link: '/English/Read/Examination/2010/test2.md' },
+                        { text: 'test1', link: '/English/Read/Examination/2010/2010test1.md' },
+                        { text: 'test2', link: '/English/Read/Examination/2010/2010test2.md' },
                     ]
                 },
             ],

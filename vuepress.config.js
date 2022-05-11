@@ -1,6 +1,7 @@
 
 const path = require("path")
 const { defaultTheme } = require('@vuepress/theme-default')
+const { viteBundler } = require('@vuepress/bundler-vite')
 const { backToTopPlugin } = require('@vuepress/plugin-back-to-top')
 const { mediumZoomPlugin } = require('@vuepress/plugin-medium-zoom')
 const { nprogressPlugin } = require('@vuepress/plugin-nprogress')
@@ -8,6 +9,15 @@ const { searchPlugin } = require('@vuepress/plugin-search')
 const sidebar = require('./docs/sidebarConfig/index')
 
 module.exports = {
+    // 如果element-plus在打包中不报错没必要！
+    // bundler: viteBundler({
+    //     viteOptions: {
+    //         ssr: {
+    //             noExternal: ['element-plus'],
+    //         },
+    //     },
+    //     vuePluginOptions: {},
+    // }),
     base:'/Ashore/',
     lang: 'zh-CN',
     title: 'Ashore',
