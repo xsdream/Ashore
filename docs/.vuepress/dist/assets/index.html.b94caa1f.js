@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as o,a as e}from"./app.8d4649be.js";const c={},n={class:"custom-container tip"},_=e("p",{class:"custom-container-title"},"TIP",-1),a=e("p",null,"\u270A Wish the 2023 examinees ashore",-1),i=[_,a];function r(l,d){return s(),o("div",n,i)}var m=t(c,[["render",r],["__file","index.html.vue"]]);export{m as default};

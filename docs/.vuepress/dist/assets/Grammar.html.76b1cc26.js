@@ -1,0 +1,1 @@
+const t={key:"v-3f9848ec",path:"/English/Grammar.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652233934e3,contributors:[{name:"xusheng",email:"1287452068@qq.com",commits:1}]},filePathRelative:"English/Grammar.md"};export{t as data};
