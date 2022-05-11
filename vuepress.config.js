@@ -8,7 +8,7 @@ const { searchPlugin } = require('@vuepress/plugin-search')
 const sidebar = require('./docs/config/sidebar')
 
 module.exports = {
-    base:'/',
+    base:'/Ashore/',
     lang: 'zh-CN',
     title: 'Ashore',
     description: 'A learning platform for in-service personnel created for 199 MBA MPA MEM postgraduate',
@@ -94,6 +94,6 @@ module.exports = {
         ],
         sidebar: sidebar,
         // 仓库地址
-        repo: 'https://gitee.com/xsdream_admin/work-postgraduate-study',
+        repo: 'https://github.com/xsdream/Ashore',
     }),
 }
