@@ -44,7 +44,7 @@ module.exports = {
             isSearchable: (page) => page.path !== '/README',
         }),
     ],
-    head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
+    head: [['link', { rel: 'icon', href: 'https://xsdream.github.io/Ashore/images/logo.png' }]],
     theme: defaultTheme({
         //编辑此页功能
         editLink: false,

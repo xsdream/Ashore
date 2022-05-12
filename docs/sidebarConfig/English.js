@@ -3,6 +3,7 @@ module.exports =  {
     '/English/Word': [
         {
             text: 'BetweenWords-MaTianYi',//单词之间
+            collapsible: true,
             children: [
                 '/English/Word/BetweenWords/Day1.md',
                 '/English/Word/BetweenWords/Day2.md',
@@ -18,6 +19,7 @@ module.exports =  {
                 '/English/Word/BetweenWords/Day12.md'
             ],
         },
+        '/English/Word/100SentencesRememberWord'
     ],
     // English-Read
     '/English/Read': [
