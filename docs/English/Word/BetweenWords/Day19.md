@@ -26,8 +26,31 @@
 24. Social `anthropology` examines family `relationships` in detail.
 25. She teaches `archaeology` at the university.
 26. To keep `ecology` in `balance` is our duty.
-
-## no finish
+27. I have no `illusions` about his `ability`.
+28. This `diagram` will `illustrate` what I mean.
+29. The river was `illuminated` by the setting sun.
+30. Cream cakes are no long a `luxury`
+31. `luxury` goods
+32. Let not a single classmate `lag` behind.
+33. The `lame` man needs a `stick` when he walks.
+34. He tried to `justify` his `absence` with `lame` `excuses`.
+35. No `blame` `attaches` to him for the `accident`.
+36. Their `ancestry` `settled` the land in 1856.
+37. The `marines` `landed` on the small `island`.
+38. The `champion` is running in `lane` five.
+39. I saw the `launch` of the `rocket` yesterday.
+40. This `lawsuit` ran him into a `fix`
+41. There has been a `leak` of information.
+42. I checked all of the _pipework_ for `leaks`.
+43. He leaned his back against the wall.
+44. The farmer tried to fatten the `lean` `cattle` for market.
+45. The `tractor` `hauled` the `load` away.
+46. The ship was `loaded` up with `coal`.
+47. The band `loan` rate is unbelievably high.
+48. I actually won the `lottery`!
+49. She has a `lucrative` business selling `leather` goods.
+50. The truck was sent to carry `lumber`.
+51. Cheese is really a good `lure` for mice.
 
 
 <ClickAble />
