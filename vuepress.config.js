@@ -103,6 +103,10 @@ module.exports = {
             {
                 text: 'Writing',
                 children: []
+            },
+            {
+                text: 'myPlan',
+                link: 'https://docs.qq.com/sheet/DSXpXY05TZHFkS1NT?u=57c00e70916744e3a71c95fa5d4e5597&tab=a3rr7z'
             }
         ],
         sidebar: sidebar,
