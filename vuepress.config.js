@@ -1,11 +1,10 @@
-
 const path = require("path")
-const { defaultTheme } = require('@vuepress/theme-default')
-const { viteBundler } = require('@vuepress/bundler-vite')
-const { backToTopPlugin } = require('@vuepress/plugin-back-to-top')
-const { mediumZoomPlugin } = require('@vuepress/plugin-medium-zoom')
-const { nprogressPlugin } = require('@vuepress/plugin-nprogress')
-const { searchPlugin } = require('@vuepress/plugin-search')
+const {defaultTheme} = require('@vuepress/theme-default')
+const {viteBundler} = require('@vuepress/bundler-vite')
+const {backToTopPlugin} = require('@vuepress/plugin-back-to-top')
+const {mediumZoomPlugin} = require('@vuepress/plugin-medium-zoom')
+const {nprogressPlugin} = require('@vuepress/plugin-nprogress')
+const {searchPlugin} = require('@vuepress/plugin-search')
 const sidebar = require('./docs/sidebarConfig/index')
 
 module.exports = {
@@ -18,7 +17,7 @@ module.exports = {
         },
         vuePluginOptions: {},
     }),
-    base:'/Ashore/',
+    base: '/Ashore/',
     lang: 'zh-CN',
     title: 'Ashore',
     description: 'A learning platform for in-service personnel created for 199 MBA MPA MEM postgraduate',
@@ -29,8 +28,7 @@ module.exports = {
     plugins: [
         backToTopPlugin(),
         //图片缩放
-        mediumZoomPlugin({
-        }),
+        mediumZoomPlugin({}),
         //切换页面进度条
         nprogressPlugin(),
         //本地搜索
@@ -44,12 +42,12 @@ module.exports = {
             isSearchable: (page) => page.path !== '/README',
         }),
     ],
-    head: [['link', { rel: 'icon', href: 'https://xsdream.github.io/Ashore/images/logo.png' }]],
+    head: [['link', {rel: 'icon', href: 'https://xsdream.github.io/Ashore/images/logo.png'}]],
     theme: defaultTheme({
         //编辑此页功能
         editLink: false,
         //最近更新时间
-        lastUpdated:true,
+        lastUpdated: true,
         //启动贡献者列表
         // contributors:true,
         //贡献者名称

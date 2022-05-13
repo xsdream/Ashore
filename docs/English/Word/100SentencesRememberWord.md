@@ -21,10 +21,10 @@
 `6.一个地方的人口越多，其对水，交通和垃圾处理的需求就会越大。 `
 ---
 7. It is more difficult to write simply, directly, and effectively than to employ flowery but vague expressions that only obscure one’s meaning.  <br>
-`7.简明，直接，有力的写作难于花哨，含混而意义模糊的表达。 `
+`7.简单、直接和有效地写作比使用华丽但模糊的表达方式更难，这些表达只会模糊一个人的意思。 `
 ---
 8. With modern offices becoming more mechanized, designers are attempting to personalize them with warmer, less severe interiors.  <br>
-`8.随着现代办公室的日益自动化，设计师们正试图利用较为温暖而不太严肃的内部装饰来使其具有亲切感。 `
+`8.随着现代办公室变得更加机械化，设计师们正试图用更温暖、更不严厉的内饰来个性化它们。。 `
 ---
 9. The difference between libel and slander is that libel is printed while slander is spoken.  <br>
 `9.诽谤和流言的区别在于前者是书面的，而后者是口头的。 `

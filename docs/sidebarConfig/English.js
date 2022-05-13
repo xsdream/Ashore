@@ -7,6 +7,7 @@ module.exports =  {
             children: [
                 '/English/Word/BetweenWords/Day1.md',
                 '/English/Word/BetweenWords/Day2.md',
+                '/English/Word/BetweenWords/Day3.md',
                 '/English/Word/BetweenWords/Day9.md',
                 '/English/Word/BetweenWords/Day19.md'
             ],
