@@ -29,7 +29,51 @@
 27. On `Behalf` of Chinese.
 28. Tom is far `beneath` Henry in `intelligence`.
 29. Don't `betray` the people's `trust` in you.
-
-no finish
+30. He `behaved` as if nothing had happened
+31. Apologize to her for your rude `behavior`!
+32. He is `virtually` `bilingual` in `Chinese` and `English`
+33. He used to be a `linguist` `till` he turns writer.
+34. The title of this `chapter` is `ambiguous`.
+35. I’m a `blunt` `straightforward` man
+36. The axe is too `blunt` to cut down the tree. n.
+37. Time `blunts` the edge of `sorrow`. v.
+38. I `blundered` into the wrong room.
+39. He `acted` as `secretary` to the `board`.
+40. His uncle is now on the `Board`.
+41. He went `abroad` at his own choice
+42. We must not take `combustible` goods `aboard`.
+43. And China also has `broad` `income` `inequality`.
+44. The continent of Africa `boasts` `potential`, `enormous` `potential`.
+45. The `rocket` `boosts` the `astronaut` into `space`
+46. An information `bureau` `collects` and keeps `various` _facts_.
+47. `Bureaucracy` achieves its power `via` knowledge.
+48. She was a `bachelor` woman.
+49. `Bachelors`, masters（postgraduate）, and doctors wear different gowns.
+50. A government's `revenue` and `expenditure` should be `balanced`
+51. `Transfer` from bank `statement` balance to _cashbook_ balance
+52. I `refuse` to `bargain` over the price. v.
+53. They got the best of the `bargain`. n.
+54. I'm a tiger for a `bargain`. n.
+55. A large `crowd` _crushed_ past the `barrier`.
+56. We `benefit` greatly by this frank talk. v.
+57. claim `unemployment` `benefit` n.
+58. Our `profits` have `quadrupled` in ten years
+59. The `bill` carried the `Senate`.; The bill was carried by the Senate.
+60. Do we save any of our `bills`?
+61. Have we got any `blank` videos?
+62. Two weeks in hospital seems a `bleak` `prospect`.
+63. The company's `prospects` look `pretty` `bleak`
+64. When water `boils`, bubbles `rise` to the `surface`
+65. I have a `bold` idea a.
+66. Shadow cabinet members listed in `bold` n.
+67. The new aircraft creates a _sonic_ `boom`
+68. They were in at the start of the `economic` `boom`.
+69. Don't say " your `doom`." Who opens the door for their `doom`?
+70. `boycott` a `commercial` product
+71. The `brevity` of the concert `disappointed` the `audience`.
+72. British `voted` for `Brexit` to slow `immigration`.
+73. Oh, just `bribed` the assistant, _Tracy_.
+74. The `bulk` of the people `voted`.
+75. Oh, I see. I'm a `burden` to you.
 
 <ClickAble />
