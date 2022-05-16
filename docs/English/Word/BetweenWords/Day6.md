@@ -21,7 +21,7 @@
 19. They set to work `accumulating` a huge mass of data.
 20. Two very clear and `comprehensive` handbooks are `available`.
 21. He has a `medical` `condition` which `precludes` `transfer`.
-22. The old man was `conscious` to the last. 😭
+22. The old man was `conscious` to the last. 
 23. He `contemplated` what the future would be like.
 24. His `colleagues` `regard` him as a joke
 25. I'm at `college` , studying `graphic` design.
