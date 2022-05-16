@@ -1,0 +1,1 @@
+const t={key:"v-37890caa",path:"/English/Read/Examination/2010/2010test1.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"[test1]",slug:"test1",children:[]}],git:{updatedTime:1652324164e3,contributors:[{name:"xusheng",email:"1287452068@qq.com",commits:3}]},filePathRelative:"English/Read/Examination/2010/2010test1.md"};export{t as data};

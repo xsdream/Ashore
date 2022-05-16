@@ -1,0 +1,1 @@
+const e={key:"v-4d5b9959",path:"/English/Read/TheEconomist/A1.html",title:"[A1]-Airbnb embraces home working with equal pay model",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652255681e3,contributors:[{name:"xusheng",email:"1287452068@qq.com",commits:2}]},filePathRelative:"English/Read/TheEconomist/A1.md"};export{e as data};

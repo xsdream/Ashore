@@ -1,0 +1,1 @@
+const e={key:"v-2f24e6fa",path:"/English/Word/BetweenWords/Day1.html",title:"Day1",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652326054e3,contributors:[{name:"xusheng",email:"1287452068@qq.com",commits:3}]},filePathRelative:"English/Word/BetweenWords/Day1.md"};export{e as data};

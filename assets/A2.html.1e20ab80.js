@@ -1,0 +1,1 @@
+const e={key:"v-4f1071f8",path:"/English/Read/TheEconomist/A2.html",title:"[A2]-Consumer-goods giants risk going hungry",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652255681e3,contributors:[{name:"xusheng",email:"1287452068@qq.com",commits:1}]},filePathRelative:"English/Read/TheEconomist/A2.md"};export{e as data};
