@@ -32,7 +32,6 @@
 30. He hasn't an ounce of `common sense`.
 31. I'm a great believer in `community` policing.
 32. Black and white show a `striking` `contrast`
-33. 
 
 
 counterpart
