@@ -33,20 +33,35 @@
 31. I'm a great believer in `community` policing.
 32. Black and white show a `striking` `contrast`
 
+[//]: # ()
+[//]: # (counterpart)
 
-counterpart
-counteract
-encounter
-core
-according
-record
-count
-compute
-calculate
-account
-accounting
-discount
-cover
-discover
-recover
-uncover
+[//]: # (counteract)
+
+[//]: # (encounter)
+
+[//]: # (core)
+
+[//]: # (according)
+
+[//]: # (record)
+
+[//]: # (count)
+
+[//]: # (compute)
+
+[//]: # (calculate)
+
+[//]: # (account)
+
+[//]: # (accounting)
+
+[//]: # (discount)
+
+[//]: # (cover)
+
+[//]: # (discover)
+
+[//]: # (recover)
+
+[//]: # (uncover)
