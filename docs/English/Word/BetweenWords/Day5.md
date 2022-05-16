@@ -1,9 +1,5 @@
 # Day5
 
-<<<<<<< HEAD
-1. He `deserves` the `acclaim` he has `received`.
-2. 
-=======
 1. I `received` an `acknowledgement` of my `application`
 2. The king `received` the `ambassador` `in state`.
 3. You are `perceived` to `accept` his offer.
@@ -80,7 +76,4 @@
 63. The `constitution` `proclaims` that public `property` shall be _inviolate_.
 
 
-
-
-
->>>>>>> origin/main
+<ClickAble />
